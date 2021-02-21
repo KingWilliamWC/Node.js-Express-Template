@@ -1,7 +1,7 @@
 # Node.js-Express-Template
 A quick and easy Node.js and Express web app creator
 
-# Node and Npm is required as well as a python compiler
+# Node and Npm is required as well as a Python compiler
 
 Place the file in the directory you wish to create the web app and hit run, compile, walk, stroll, whatever you want(python 3.x is required).
 
